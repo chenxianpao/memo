@@ -1,0 +1,39 @@
+1. start rabbitmq or redis. here use rabbitmq.
+    install&start:
+        brew install rabbitmq
+        cd /usr/local/Cellar/rabbitmq/3.7.4/sbin
+        ./rabbitmq-server
+    setup:
+        sudo rabbitmqctl add_user myuser mypassword
+        sudo rabbitmqctl add_vhost myvhost
+        sudo rabbitmqctl set_user_tags myuser mytag
+        sudo rabbitmqctl set_permissions -p myvhost myuser ".*" ".*" ".*"
+        sudo rabbitmqctl status
+    info:
+        broker_url = 'amqp://myuser:mypassword@localhost:5672/myvhost'
+        backend_url = 'amqp://' or 'rpc://'
+2. start celery
+    celery -A celery_flask.celery worker --loglevel=info
+3. start flask
+    python celery_flask.py
+4. test
+    http get method: http://127.0.0.1:5000/longtask
+    result: 5df808d9-e17c-4f0c-8615-3ed5814a0378(task_id)
+    info: start task, and get task id
+
+    http get method: http://127.0.0.1:5000/status/5df808d9-e17c-4f0c-8615-3ed5814a0378
+    result: progress
+    {
+        "current": 13,
+        "state": "PROGRESS",
+        "status": "booting harmonic particle reshaper...",
+        "total": 27
+    }
+    info: get task's progress
+
+    http get method: http://127.0.0.1:5000/stop/5df808d9-e17c-4f0c-8615-3ed5814a0378
+    result: None
+    info: stop working task
+
+
+
