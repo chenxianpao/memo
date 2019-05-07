@@ -1,0 +1,1 @@
+db.createUser({user:"hikscale1", pwd:"cxp", roles:[{role:"readWrite", db:"hikscale"}]})
