@@ -1,0 +1,240 @@
+# depslib dependency file v1.0
+1400036609 source:c:\users\cxp\documents\cÔ´Âë\pdemo\main.cpp
+	"Python.h"
+	<iostream>
+	<string>
+
+1299548592 c:\python27\include\python.h
+	"patchlevel.h"
+	"pyconfig.h"
+	"pymacconfig.h"
+	<limits.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<unistd.h>
+	<stddef.h>
+	<assert.h>
+	"pyport.h"
+	"pymath.h"
+	"pymem.h"
+	"object.h"
+	"objimpl.h"
+	"pydebug.h"
+	"unicodeobject.h"
+	"intobject.h"
+	"boolobject.h"
+	"longobject.h"
+	"floatobject.h"
+	"complexobject.h"
+	"rangeobject.h"
+	"stringobject.h"
+	"memoryobject.h"
+	"bufferobject.h"
+	"bytesobject.h"
+	"bytearrayobject.h"
+	"tupleobject.h"
+	"listobject.h"
+	"dictobject.h"
+	"enumobject.h"
+	"setobject.h"
+	"methodobject.h"
+	"moduleobject.h"
+	"funcobject.h"
+	"classobject.h"
+	"fileobject.h"
+	"cobject.h"
+	"pycapsule.h"
+	"traceback.h"
+	"sliceobject.h"
+	"cellobject.h"
+	"iterobject.h"
+	"genobject.h"
+	"descrobject.h"
+	"warnings.h"
+	"weakrefobject.h"
+	"codecs.h"
+	"pyerrors.h"
+	"pystate.h"
+	"pyarena.h"
+	"modsupport.h"
+	"pythonrun.h"
+	"ceval.h"
+	"sysmodule.h"
+	"intrcheck.h"
+	"import.h"
+	"abstract.h"
+	"compile.h"
+	"eval.h"
+	"pyctype.h"
+	"pystrtod.h"
+	"pystrcmp.h"
+	"dtoa.h"
+	"pyfpe.h"
+	<pth.h>
+
+1307859746 c:\python27\include\patchlevel.h
+
+1299548612 c:\python27\include\pyconfig.h
+	<io.h>
+	<stdlib.h>
+	<float.h>
+	<basetsd.h>
+	<io.h>
+	<stdio.h>
+
+1306706032 c:\python27\include\pymacconfig.h
+
+1299548592 c:\python27\include\pyport.h
+	"pyconfig.h"
+	<inttypes.h>
+	<stdint.h>
+	<stdlib.h>
+	<ieeefp.h>
+	<math.h>
+	<sys/time.h>
+	<time.h>
+	<sys/time.h>
+	<time.h>
+	<sys/select.h>
+	<sys/types.h>
+	"unixstuff.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<stat.h>
+	<sys/types.h>
+	<sys/termio.h>
+	<termios.h>
+	<osreldate.h>
+	<ctype.h>
+	<wctype.h>
+
+1299548592 c:\python27\include\pymath.h
+	"pyconfig.h"
+
+1299548592 c:\python27\include\pymem.h
+	"pyport.h"
+
+1299548592 c:\python27\include\object.h
+
+1299548592 c:\python27\include\objimpl.h
+	"pymem.h"
+
+1299548592 c:\python27\include\pydebug.h
+
+1299548592 c:\python27\include\unicodeobject.h
+	<stdarg.h>
+	<ctype.h>
+	<time.h>
+	<wchar.h>
+	<wctype.h>
+
+1299548592 c:\python27\include\intobject.h
+
+1299548592 c:\python27\include\boolobject.h
+
+1299548592 c:\python27\include\longobject.h
+
+1299548592 c:\python27\include\floatobject.h
+
+1299548592 c:\python27\include\complexobject.h
+
+1299548592 c:\python27\include\rangeobject.h
+
+1299548592 c:\python27\include\stringobject.h
+	<stdarg.h>
+
+1299548592 c:\python27\include\memoryobject.h
+
+1299548592 c:\python27\include\bufferobject.h
+
+1299548592 c:\python27\include\bytesobject.h
+
+1299548592 c:\python27\include\bytearrayobject.h
+	<stdarg.h>
+
+1299548592 c:\python27\include\tupleobject.h
+
+1299548592 c:\python27\include\listobject.h
+
+1299548592 c:\python27\include\dictobject.h
+
+1299548376 c:\python27\include\enumobject.h
+
+1299548592 c:\python27\include\setobject.h
+
+1299548592 c:\python27\include\methodobject.h
+
+1299548592 c:\python27\include\moduleobject.h
+
+1299548592 c:\python27\include\funcobject.h
+
+1299548592 c:\python27\include\classobject.h
+
+1299548592 c:\python27\include\fileobject.h
+
+1299548592 c:\python27\include\cobject.h
+
+1299548592 c:\python27\include\pycapsule.h
+
+1299548592 c:\python27\include\traceback.h
+
+1299548592 c:\python27\include\sliceobject.h
+
+1299548592 c:\python27\include\cellobject.h
+
+1299548592 c:\python27\include\iterobject.h
+
+1299548592 c:\python27\include\genobject.h
+
+1299548592 c:\python27\include\descrobject.h
+
+1299548592 c:\python27\include\warnings.h
+
+1299548592 c:\python27\include\weakrefobject.h
+
+1299548592 c:\python27\include\codecs.h
+
+1299548592 c:\python27\include\pyerrors.h
+	<stdarg.h>
+
+1306706032 c:\python27\include\pystate.h
+
+1299548592 c:\python27\include\pyarena.h
+
+1299548592 c:\python27\include\modsupport.h
+	<stdarg.h>
+
+1299548592 c:\python27\include\pythonrun.h
+
+1299548592 c:\python27\include\ceval.h
+
+1299548592 c:\python27\include\sysmodule.h
+
+1299548376 c:\python27\include\intrcheck.h
+
+1299548592 c:\python27\include\import.h
+
+1306706032 c:\python27\include\abstract.h
+
+1299548592 c:\python27\include\compile.h
+	"code.h"
+
+1299548592 c:\python27\include\code.h
+
+1299548592 c:\python27\include\eval.h
+
+1299548592 c:\python27\include\pyctype.h
+
+1299548592 c:\python27\include\pystrtod.h
+
+1299548592 c:\python27\include\pystrcmp.h
+
+1299548592 c:\python27\include\dtoa.h
+
+1299548376 c:\python27\include\pyfpe.h
+	<signal.h>
+	<setjmp.h>
+	<math.h>
+
