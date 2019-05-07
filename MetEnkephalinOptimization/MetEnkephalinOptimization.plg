@@ -1,0 +1,49 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MetEnkephalinOptimization - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Run\AppData\Local\Temp\RSP1B95.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GR /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/MetEnkephalinOptimization.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /TP /c 
+"D:\MetEnkephalinOptimization\DifferentialEvolution.cpp"
+"D:\MetEnkephalinOptimization\MetEnkephalinOptimization.cpp"
+]
+Creating command line "cl.exe @C:\Users\Run\AppData\Local\Temp\RSP1B95.tmp" 
+Creating temporary file "C:\Users\Run\AppData\Local\Temp\RSP1BA6.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/MetEnkephalinOptimization.pdb" /debug /machine:I386 /out:"Debug/MetEnkephalinOptimization.exe" /pdbtype:sept 
+.\Debug\AtomEntry.obj
+.\Debug\CAM.obj
+.\Debug\DELB.obj
+.\Debug\DifferentialEvolution.obj
+.\Debug\EnergyCalculator.obj
+.\Debug\EnkephalinPDB.obj
+.\Debug\MetEnkephalinOptimization.obj
+.\Debug\MOCrowdingDEvolution.obj
+.\Debug\MyEvalData.obj
+.\Debug\rmsd.obj
+.\Debug\SAAlgorithm.obj
+.\Debug\StdAfx.obj
+.\MetEnkephalinOptimizationLib\Debug\MetEnkephalinOptimizationLib.lib
+]
+Creating command line "link.exe @C:\Users\Run\AppData\Local\Temp\RSP1BA6.tmp"
+<h3>Output Window</h3>
+Compiling...
+DifferentialEvolution.cpp
+d:\metenkephalinoptimization\differentialevolution.h(11) : fatal error C1083: Cannot open include file: 'ga/gaRealGenome.h': No such file or directory
+MetEnkephalinOptimization.cpp
+D:\MetEnkephalinOptimization\MetEnkephalinOptimization.cpp(8) : fatal error C1083: Cannot open include file: 'ga/ga.h': No such file or directory
+Generating Code...
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+MetEnkephalinOptimization.exe - 2 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

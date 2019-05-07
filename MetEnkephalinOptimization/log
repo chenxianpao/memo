@@ -1,0 +1,148 @@
+
+D:\MetEnkephalinOptimization>set ECEPPAK_RES=D:\eceppak\Data\Residue 
+
+D:\MetEnkephalinOptimization>set ECEPPAK_HYD=D:\eceppak\Data\Residue 
+
+D:\MetEnkephalinOptimization>set ECEPPAK_BIN=D:\eceppak\bin 
+
+D:\MetEnkephalinOptimization>set ECEPPAK_IBEM=D:\eceppak\Data\IBEM 
+
+D:\MetEnkephalinOptimization>set RUNTYP=MINIMIZE 
+
+D:\MetEnkephalinOptimization>set INPF=metEnkephalinEnergyMultipleMinimizeSourceFile 
+
+D:\MetEnkephalinOptimization>set OUTF=MET_MULTI_MIN 
+
+D:\MetEnkephalinOptimization>set ANAF=MultipleEnergyMinimizeInput 
+
+D:\MetEnkephalinOptimization>set BNDF=rr 
+
+D:\MetEnkephalinOptimization>set SOLVDBS=D:\eceppak\Data\Residue 
+
+D:\MetEnkephalinOptimization>set RSDBS=D:\eceppak\Data\Residue 
+
+D:\MetEnkephalinOptimization>set SOLVFILE=D:\eceppak\Data\Residue\srfopt.set  
+
+D:\MetEnkephalinOptimization>set FXVOLFILE=D:\eceppak\Data\Residue\fix_vol_tst.parm 
+
+D:\MetEnkephalinOptimization>set RSDATA=D:\eceppak\Data\Residue\rsdata 
+
+D:\MetEnkephalinOptimization>set HLABELFILE=D:\eceppak\Data\Residue\nmr_protons.data  
+
+D:\MetEnkephalinOptimization>set DIHDEFILE=D:\eceppak\Data\Residue\dihedral_def 
+
+D:\MetEnkephalinOptimization>set IBEMCHG=D:\eceppak\Data\IBEM\resibem 
+
+D:\MetEnkephalinOptimization>set TGTARS=TARGET.tgtars 
+
+D:\MetEnkephalinOptimization>set RESTFILE=edmc.rstart 
+
+D:\MetEnkephalinOptimization>set RANDFILE=edmc.rndom 
+
+D:\MetEnkephalinOptimization>D:\eceppak\bin\eceppak-NT.exe  
+RUNTYP is MINIMIZE                                                        
+opening unit  8 metEnkephalinEnergyMultipleMinimizeSourceFile.inp               
+opening unit 20 main_out.MET_MULTI_MIN                                          
+opening unit 35 D:\eceppak\Data\Residue\rsdata                                  
+ IOLDNUM =            1
+ IOLDNUM =            2
+ IOLDNUM =            3
+ IOLDNUM =            4
+ IOLDNUM =            5
+ IOLDNUM =            6
+ IOLDNUM =            7
+ IOLDNUM =            8
+ IOLDNUM =            9
+ IOLDNUM =           10
+ IOLDNUM =           11
+ IOLDNUM =           12
+ IOLDNUM =           13
+ IOLDNUM =           14
+ IOLDNUM =           15
+ IOLDNUM =           16
+ IOLDNUM =           17
+ IOLDNUM =           18
+ IOLDNUM =           19
+ IOLDNUM =           20
+ IOLDNUM =           21
+ IOLDNUM =           22
+ IOLDNUM =           23
+ IOLDNUM =           24
+ IOLDNUM =           25
+ IOLDNUM =           26
+ IOLDNUM =           27
+ IOLDNUM =           28
+ IOLDNUM =           29
+ IOLDNUM =           30
+ IOLDNUM =           31
+ IOLDNUM =           32
+ IOLDNUM =           33
+ IOLDNUM =           34
+ IOLDNUM =           35
+ IOLDNUM =           36
+ IOLDNUM =           37
+ IOLDNUM =           38
+ IOLDNUM =           39
+ IOLDNUM =           40
+ IOLDNUM =           41
+ IOLDNUM =           42
+ IOLDNUM =           43
+ IOLDNUM =           44
+ IOLDNUM =           45
+ IOLDNUM =           46
+ IOLDNUM =           47
+ IOLDNUM =           48
+ IOLDNUM =           49
+ IOLDNUM =           50
+ IOLDNUM =           51
+ IOLDNUM =           52
+ IOLDNUM =           53
+ IOLDNUM =           54
+ IOLDNUM =           55
+ IOLDNUM =           56
+ IOLDNUM =           57
+ IOLDNUM =           58
+ IOLDNUM =           59
+ IOLDNUM =           60
+ IOLDNUM =           61
+ IOLDNUM =           62
+ IOLDNUM =           63
+ IOLDNUM =           64
+ IOLDNUM =           65
+ IOLDNUM =           66
+ IOLDNUM =           67
+ IOLDNUM =           68
+ IOLDNUM =           69
+ IOLDNUM =           70
+ IOLDNUM =           71
+ IOLDNUM =           72
+ IOLDNUM =           73
+ IOLDNUM =           74
+ IOLDNUM =           75
+ IOLDNUM =           76
+ IOLDNUM =           77
+ IOLDNUM =           78
+ IOLDNUM =           79
+ IOLDNUM =           80
+ IOLDNUM =           81
+ IOLDNUM =           82
+ IOLDNUM =           83
+ IOLDNUM =           84
+ IOLDNUM =           85
+ IOLDNUM =           86
+ IOLDNUM =           87
+ IOLDNUM =           88
+ IOLDNUM =           89
+ IOLDNUM =           90
+ IOLDNUM =           91
+ IOLDNUM =           92
+ IOLDNUM =           93
+ IOLDNUM =           94
+ IOLDNUM =           95
+ IOLDNUM =           96
+ IOLDNUM =           97
+ IOLDNUM =           98
+ IOLDNUM =           99
+ IOLDNUM =          100
+TIME for Run=   2.339531    
+Return code 77777

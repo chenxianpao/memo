@@ -1,0 +1,25 @@
+$CNTRL
+runtyp = minimize
+res_code= one_letter
+EMINIMA = 0.100E+35
+$END
+
+$SEQ
+H
+YGGFM
+O
+$END
+
+$ENERCALC
+READ_CONF
+$END
+
+$GEOM
+
+
+
+
+
+
+
+$END

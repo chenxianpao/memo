@@ -1,0 +1,104 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MetEnkephalinOptimizationLib - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\zgj\LOCALS~1\Temp\RSP13A.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GR /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_MBCS" /D "_LIB" /Fp"Debug/MetEnkephalinOptimizationLib.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /TP /c 
+"D:\MetEnkephalinOptimization\ga\GA1DBinStrGenome.C"
+"D:\MetEnkephalinOptimization\ga\GA2DArrayGenome.C"
+"D:\MetEnkephalinOptimization\ga\GA2DBinStrGenome.C"
+"D:\MetEnkephalinOptimization\ga\GA3DArrayGenome.C"
+"D:\MetEnkephalinOptimization\ga\GA3DBinStrGenome.C"
+"D:\MetEnkephalinOptimization\ga\GABaseGA.C"
+"D:\MetEnkephalinOptimization\ga\GABin2DecGenome.C"
+"D:\MetEnkephalinOptimization\ga\GADCrowdingGA.C"
+"D:\MetEnkephalinOptimization\ga\GADemeGA.C"
+"D:\MetEnkephalinOptimization\ga\GAGenome.C"
+"D:\MetEnkephalinOptimization\ga\GAIncGA.C"
+"D:\MetEnkephalinOptimization\ga\GAListGenome.C"
+"D:\MetEnkephalinOptimization\ga\GAPopulation.C"
+"D:\MetEnkephalinOptimization\ga\GARealGenome.C"
+"D:\MetEnkephalinOptimization\ga\GAScaling.C"
+"D:\MetEnkephalinOptimization\ga\GASelector.C"
+"D:\MetEnkephalinOptimization\ga\GASimpleGA.C"
+"D:\MetEnkephalinOptimization\ga\GASStateGA.C"
+"D:\MetEnkephalinOptimization\ga\GAStatistics.C"
+"D:\MetEnkephalinOptimization\ga\GAStringGenome.C"
+"D:\MetEnkephalinOptimization\ga\GATreeGenome.C"
+]
+Creating command line "cl.exe @C:\DOCUME~1\zgj\LOCALS~1\Temp\RSP13A.tmp" 
+Creating temporary file "C:\DOCUME~1\zgj\LOCALS~1\Temp\RSP13B.tmp" with contents
+[
+/nologo /out:"Debug\MetEnkephalinOptimizationLib.lib" 
+.\Debug\GA1DArrayGenome.obj
+.\Debug\GA1DBinStrGenome.obj
+.\Debug\GA2DArrayGenome.obj
+.\Debug\GA2DBinStrGenome.obj
+.\Debug\GA3DArrayGenome.obj
+.\Debug\GA3DBinStrGenome.obj
+.\Debug\GAAllele.obj
+.\Debug\GABaseGA.obj
+.\Debug\GABin2DecGenome.obj
+.\Debug\gabincvt.obj
+.\Debug\GABinStr.obj
+.\Debug\GADCrowdingGA.obj
+.\Debug\GADemeGA.obj
+.\Debug\gaerror.obj
+.\Debug\GAGenome.obj
+.\Debug\GAIncGA.obj
+.\Debug\GAList.obj
+.\Debug\GAListBASE.obj
+.\Debug\GAListGenome.obj
+.\Debug\GAParameter.obj
+.\Debug\GAPopulation.obj
+.\Debug\garandom.obj
+.\Debug\GARealGenome.obj
+.\Debug\GAScaling.obj
+.\Debug\GASelector.obj
+.\Debug\GASimpleGA.obj
+.\Debug\GASStateGA.obj
+.\Debug\GAStatistics.obj
+.\Debug\GAStringGenome.obj
+.\Debug\GATree.obj
+.\Debug\GATreeBASE.obj
+.\Debug\GATreeGenome.obj
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\zgj\LOCALS~1\Temp\RSP13B.tmp"
+<h3>Output Window</h3>
+Compiling...
+Skipping... (no relevant changes detected)
+GA1DBinStrGenome.C
+GA2DArrayGenome.C
+GA2DBinStrGenome.C
+GA3DArrayGenome.C
+GA3DBinStrGenome.C
+GABaseGA.C
+GABin2DecGenome.C
+GADCrowdingGA.C
+GADemeGA.C
+GAGenome.C
+GAIncGA.C
+GAListGenome.C
+GAPopulation.C
+GARealGenome.C
+GAScaling.C
+GASelector.C
+GASimpleGA.C
+GASStateGA.C
+GAStatistics.C
+GAStringGenome.C
+GATreeGenome.C
+Creating library...
+
+
+
+<h3>Results</h3>
+MetEnkephalinOptimizationLib.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
