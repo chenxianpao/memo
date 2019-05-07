@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf97fa8f-7e20-452a-a83c-719f029c88eb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SortAlgrithm/InsertSort.cbp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SortAlgrithm/InsertSort.depend" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SortAlgrithm/InsertSort.layout" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SortAlgrithm/bin/Debug/InsertSort.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SortAlgrithm/main.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SortAlgrithm/obj/Debug/main.o" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/Debug/RBT.exe" afterPath="$PROJECT_DIR$/RBT/Debug/RBT.exe" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/Debug/RBT.ilk" afterPath="$PROJECT_DIR$/RBT/Debug/RBT.ilk" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/Debug/RBT.pdb" afterPath="$PROJECT_DIR$/RBT/Debug/RBT.pdb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT.sdf" afterPath="$PROJECT_DIR$/RBT/RBT.sdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT.sln" afterPath="$PROJECT_DIR$/RBT/RBT.sln" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT.v12.suo" afterPath="$PROJECT_DIR$/RBT/RBT.v12.suo" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/RBT.log" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/RBT.log" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/RBT.obj" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/RBT.obj" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/RBT.pch" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/RBT.pch" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/RBT.tlog/CL.read.1.tlog" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/RBT.tlog/CL.read.1.tlog" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/RBT.tlog/CL.write.1.tlog" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/RBT.tlog/CL.write.1.tlog" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/RBT.tlog/RBT.lastbuildstate" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/RBT.tlog/RBT.lastbuildstate" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/RBT.tlog/cl.command.1.tlog" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/RBT.tlog/cl.command.1.tlog" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/RBT.tlog/link.command.1.tlog" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/RBT.tlog/link.command.1.tlog" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/RBT.tlog/link.read.1.tlog" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/RBT.tlog/link.read.1.tlog" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/RBT.tlog/link.write.1.tlog" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/RBT.tlog/link.write.1.tlog" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/stdafx.obj" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/stdafx.obj" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/vc120.idb" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/vc120.idb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/Debug/vc120.pdb" afterPath="$PROJECT_DIR$/RBT/RBT/Debug/vc120.pdb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/RBT.cpp" afterPath="$PROJECT_DIR$/RBT/RBT/RBT.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/RBT.vcxproj" afterPath="$PROJECT_DIR$/RBT/RBT/RBT.vcxproj" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/RBT.vcxproj.filters" afterPath="$PROJECT_DIR$/RBT/RBT/RBT.vcxproj.filters" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/ReadMe.txt" afterPath="$PROJECT_DIR$/RBT/RBT/ReadMe.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/stdafx.cpp" afterPath="$PROJECT_DIR$/RBT/RBT/stdafx.cpp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/stdafx.h" afterPath="$PROJECT_DIR$/RBT/RBT/stdafx.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/RBT/targetver.h" afterPath="$PROJECT_DIR$/RBT/RBT/targetver.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/红黑树RBT/ipch/rbt-6c9b4d52/rbt-318615f4.ipch" afterPath="$PROJECT_DIR$/RBT/ipch/rbt-6c9b4d52/rbt-318615f4.ipch" />
-    </list>
+    <list default="true" id="cf97fa8f-7e20-452a-a83c-719f029c88eb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,10 +15,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SortAlgorithm/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2840">
+            <state relative-caret-position="205">
+              <caret line="145" column="0" lean-forward="true" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadMe" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/celery_flask/ReadMe">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -95,20 +71,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="memo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="memo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="memo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RBT" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -330,7 +292,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SortAlgorithm/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2840">
+        <state relative-caret-position="205">
+          <caret line="145" column="0" lean-forward="true" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celery_flask/ReadMe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
